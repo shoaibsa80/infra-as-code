@@ -15,3 +15,5 @@ resource stg 'Microsoft.Storage/storageAccounts@2021-04-01' = {
 }
 
 output storageId string = stg.id
+abc
+
